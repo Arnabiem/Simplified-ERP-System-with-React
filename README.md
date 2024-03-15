@@ -12,10 +12,12 @@ b. Navigate to the project directory:cd my-app
 c. Install dependencies: npm install
 
 d.To start the development server and view the project: npm start
+
   The application will be running at http://localhost:3000.
 
 
 **Features**
+
 **1. Products Management**
 The Products page allows users to view, add, edit, and delete products.
 
