@@ -4,6 +4,7 @@ The Simplified ERP(Enterprise Resource Planning) System with React is a modern w
 
 
 **Installation**
+
 a. Clone the repository: git clone <repository-url>
 
 b. Navigate to the project directory:cd my-app
@@ -50,56 +51,20 @@ ii. Click on Date: Users can click on a date to view all orders due for delivery
 **Screenshots**
 
 a. Dashboard Page:
-![Dashboard](https://github.com/nithink21460/Simplified-ERP-System-with-React/assets/96772933/745f851e-057b-4b82-92c3-29c442826890)
+![Screenshot (658)](https://github.com/Arnabiem/Simplified-ERP-System-with-React/assets/82289240/efc91338-a0b8-4412-b541-35085d0a8a5c)
 
 
 b. Products Page:
-
-![Products-1](https://github.com/nithink21460/Simplified-ERP-System-with-React/assets/96772933/d45411f7-fe12-4291-819c-5811c1ecea92)
-
-I have entered the data like this:
-
-![Products-2](https://github.com/nithink21460/Simplified-ERP-System-with-React/assets/96772933/11e7e5c2-b279-4d94-ab85-a5c401f0dc40)
-
-After I clicked on Add button:
-
-![Product-3](https://github.com/nithink21460/Simplified-ERP-System-with-React/assets/96772933/9e462c10-455b-412c-a9fc-5197dbcf84fc)
-
-After I clicked on delete button on laptop, it is deleted:
-
-![Product-4](https://github.com/nithink21460/Simplified-ERP-System-with-React/assets/96772933/09c330d4-3ceb-4647-a460-7ebfe17db3d3)
-
-When I clicked on Edit Button:
-
-![Product-5](https://github.com/nithink21460/Simplified-ERP-System-with-React/assets/96772933/8a82b87a-47eb-47f8-a84a-a1e6fa017a89)
+![Screenshot (659)](https://github.com/Arnabiem/Simplified-ERP-System-with-React/assets/82289240/61daf9db-c16f-4d4c-aecc-bbaab9c0a736)
 
 
 c.Orders Page:
-
-![Order-1](https://github.com/nithink21460/Simplified-ERP-System-with-React/assets/96772933/6471ce90-2977-4fd6-99fe-89cdcbec45a2)
-
-I have entered the data like this:
-
-![Order-2](https://github.com/nithink21460/Simplified-ERP-System-with-React/assets/96772933/ba269596-c64c-4f11-a769-eda17a456c56)
-
-After I clicked on Submit button:
-
-![Order-3](https://github.com/nithink21460/Simplified-ERP-System-with-React/assets/96772933/3fb97c78-b2b1-4c9f-a991-572a180be435)
-
-After I clicked on delete button for Nithin, it is deleted:
-
-![Order-4](https://github.com/nithink21460/Simplified-ERP-System-with-React/assets/96772933/987c5d76-6607-4bad-b347-f60b8cc4209a)
-
-When I clicked on Edit Button for Naveen:
-
-![Order-5](https://github.com/nithink21460/Simplified-ERP-System-with-React/assets/96772933/7bb8ad59-3856-48fd-9036-3d0558017a56)
+![Screenshot (660)](https://github.com/Arnabiem/Simplified-ERP-System-with-React/assets/82289240/837fa3fa-324d-44d7-916e-5d4328748ed5)
 
 
 d. Calendar Page:
+![Screenshot (661)](https://github.com/Arnabiem/Simplified-ERP-System-with-React/assets/82289240/17b378d4-3555-44b3-b532-704fd931288d)
 
-![Calendar-1](https://github.com/nithink21460/Simplified-ERP-System-with-React/assets/96772933/f6af812b-609c-4ec1-9f1c-b09cf47a87c6)
 
-When i clicked on specific date which have Order status as pending, shipped, delivered:
 
-![Calendar-2](https://github.com/nithink21460/Simplified-ERP-System-with-React/assets/96772933/76f063b4-2173-4690-bdd4-c45ed37e13b9)
 
