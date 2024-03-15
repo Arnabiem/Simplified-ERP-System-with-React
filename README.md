@@ -5,9 +5,9 @@ The Simplified ERP(Enterprise Resource Planning) System with React is a modern w
 
 **Installation**
 
-a. Clone the repository: git clone <repository-url>
+a. Clone the repository: git clone [<repository-url>](https://github.com/Arnabiem/Simplified-ERP-System-with-React.git)
 
-b. Navigate to the project directory:cd my-app
+b. Navigate to the project directory:cd project_name
 
 c. Install dependencies: npm install
 
